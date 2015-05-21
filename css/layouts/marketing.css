@@ -84,6 +84,15 @@ a.pure-button-primary {
     font-size: 120%;
 }
 
+a {
+    color: #823400;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #823400;
+}
+
 
 /*
  * -- MENU STYLES --
@@ -207,7 +216,7 @@ a.pure-button-primary {
 
 /* This is a modifier class used when the content-head is inside a ribbon */
 .content-head-ribbon {
-    color: #6B6B6B;
+    color: #444;
 }
 
 /* This is the class used for the content sub-headers (<h3>) */
@@ -221,7 +230,7 @@ a.pure-button-primary {
 /* This is the class used for the dark-background areas. */
 .ribbon {
     background: #e6e6e6;
-    color: #444;
+    color: #6B6B6B;
 }
 
 /* This is the class used for the footer */
