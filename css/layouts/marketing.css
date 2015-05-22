@@ -85,12 +85,12 @@ a.pure-button-primary {
 }
 
 a {
-    color: #823400;
+    color: #FF6600;
     text-decoration: none;
 }
 
 a:visited {
-    color: #823400;
+    color: #FF6600;
 }
 
 
@@ -236,6 +236,15 @@ a:visited {
 /* This is the class used for the footer */
 .footer {
     background: #3F3F3F;
+}
+
+.content_main {
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    min-height: 12%;
+    z-index: 2;
+    background: white;
 }
 
 /*
